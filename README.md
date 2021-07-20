@@ -1,4 +1,4 @@
-# marvel_api_project : 
+# Marvel_Api_Project : 
 
 https://developer.marvel.com/
 https://developer.marvel.com/documentation/getting_started
